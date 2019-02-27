@@ -56,7 +56,7 @@ function refresh(el) {
 			}
 			else {
 				alert("PASSWORD INCORRECT");
-				window.location = "google.com";
+				location.reload();
 			}
 		}
 		else {
