@@ -110,3 +110,6 @@ function nextImage3(el){
 		// do nothing
 	}
 }
+function loadAlert(){
+	alert("H")
+}
