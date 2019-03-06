@@ -112,7 +112,7 @@ function nextImage3(el){
 	}
 }
 function loadAlert(){
-	alert("H")
+	alert("gotta login to this computer")
 }
 function H(el) {
 	document.images["picture0"].src = "images/hint1.png"
