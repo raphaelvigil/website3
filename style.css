@@ -22,10 +22,11 @@ body {
 .middle {
 	display: flex;
 	width: calc(100% - 20px);
-	height: clac(50% - 10px);
+	height: calc(50% - 10px);
 	background-color: rgb(0,0,0);
 	border-left: 10px solid;
 	border-right: 10px solid;
+	border-bottom: 10px solid;
 	border-color: rgb(150,150,150);
 }
 .picture2 {
