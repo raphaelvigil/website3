@@ -1,6 +1,7 @@
 a = 0
 b = 0
 c = 0
+d = 0
 e = 0
 f = 0
 function keyboard(el) {
@@ -112,4 +113,7 @@ function nextImage3(el){
 }
 function loadAlert(){
 	alert("H")
+}
+function H(el) {
+	document.images["picture0"].src = "images/hint1.png"
 }
