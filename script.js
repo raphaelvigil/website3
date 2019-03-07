@@ -52,7 +52,8 @@ function refresh(el) {
 		if (document.images["picture2"].src.match("images/e.png")) {
 			if (document.images["picture3"].src.match("images/s.png")) {
 				alert("password correct, you may continue");
-				location.reload();
+				location.href = "http://www.google.com";
+
 			}
 			else {
 				alert("PASSWORD INCORRECT");
