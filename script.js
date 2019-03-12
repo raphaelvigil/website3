@@ -52,7 +52,7 @@ function refresh(el) {
 		if (document.images["picture2"].src.match("images/e.png")) {
 			if (document.images["picture3"].src.match("images/s.png")) {
 				alert("password correct, you may continue");
-				location.href = "https://joathancole5.github.io/THE-SITE";
+				location.href = "https://jonathancole5.github.io/THE-SITE/";
 
 			}
 			else {
