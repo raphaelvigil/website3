@@ -12,7 +12,7 @@ function keyboard(el) {
 	}
 	else if	(a == 1) {
 		document.images["keyboard1"].src = "images/keyboard.png"
-		document.images["keyboard2"].src = ""
+		document.images["keyboard2"].src = "images/transparent.png"
 		a = 0
 	}
 }
