@@ -75,7 +75,7 @@ body {
   width: 99%;
 }
 .click {
-	cursor: pointer;
+	cursor: "images/clicker.png", auto;
 }
 .center-content {
 	display: flex;
